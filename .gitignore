@@ -1,0 +1,7 @@
+# Python virtual environment directories
+venv/
+env/
+.venv/
+
+# Compiled Python files
+*.pyc
